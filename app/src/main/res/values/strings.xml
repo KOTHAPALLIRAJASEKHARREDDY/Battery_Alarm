@@ -1,0 +1,11 @@
+<resources>
+
+        <string name="app_name">BatteryAlarm</string>
+        <string name="charging_persentage">charging persentage</string>
+        <string name="stop_Button">STOP</string>
+        <string name="copyrights">
+       THE COPYRIGHTS (©) ON THIS APPLICATIONS(APP) IS BELONG TO RAJASEKAHR REDDY KOTHAPALLI.
+    </string>
+        <string name="todo">TODO</string>
+
+</resources>
